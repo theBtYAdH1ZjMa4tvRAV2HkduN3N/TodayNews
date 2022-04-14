@@ -14,20 +14,13 @@ body {
 	margin-top: 0.5rem;
 	margin-bottom: 0.5rem;
 }
-
-
 a,
 a.visited {
 	color: inherit;
 	text-decoration: none;
 }
+h1 {font-size: 13min; }
+h2 {font-size: 10vmin;}
+h3 {font-size: 8vmin;}
 
-h1 {
-	font-size: 15vmin;
-	}
-h2 {
-	font-size: 12vmin;
-	}
-h3 {
-	font-size: 9vmin;
-}
+
